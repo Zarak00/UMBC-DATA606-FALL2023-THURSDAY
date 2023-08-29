@@ -5,7 +5,7 @@
 
 ## Education
 * **Masters of Science**  : Data Science
-* **Towson University**   - Baltimore, MD
+* **UMBC**                - Baltimore, MD
 * **Bachelor of Science** : Business Administration, Marketing
 * **Towson University**   - Towson, MD
 
